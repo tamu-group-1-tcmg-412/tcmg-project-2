@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://jeh2000.github.io/firstblog/'
 languageCode = 'en-us'
 title = 'TCMG 412'
 theme = "aether"
