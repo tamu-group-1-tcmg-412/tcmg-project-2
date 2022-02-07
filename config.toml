@@ -1,4 +1,4 @@
-baseURL = 'http://jeh2000.github.io/firstblog/'
+baseURL = 'https://tamu-group-1-tcmg-412.github.io/tcmg-project-2/'
 languageCode = 'en-us'
 title = 'TCMG 412'
 theme = "aether"
